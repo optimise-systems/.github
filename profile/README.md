@@ -1,51 +1,49 @@
-## 🎯 Welcome to OptimiSE Academy
+## Welcome to OptimiSE Academy
 
-### 🚀 Empowering Engineers with MDO & MBSE Mastery
+![OptimiSE Banner](./banner-wide.png)
 
-Welcome to the official OptimiSE Academy GitHub Organization, where we provide open-source resources, tools, and learning materials to support engineers in mastering Multidisciplinary Design Optimization (MDO) and Model-Based Systems Engineering (MBSE).
+### Empowering Engineers with MDO & MBSE Mastery
 
-### 📚 About OptimiSE Academy
+Welcome to the official OptimiSE Academy GitHub Organisation, where we provide open-source resources, tools, and learning materials to support engineers in mastering Multidisciplinary Design Optimisation (MDO) and Model-Based Systems Engineering (MBSE).
+
+### About OptimiSE Academy
 
 At OptimiSE Academy, we bridge the gap between theory and application by offering structured, practical, and industry-relevant courses designed to help engineers enhance their system development workflow. Whether you’re new to MDO & MBSE or looking to refine your expertise, our courses and resources will guide you through real-world applications and best practices.
 
-#### 🌐 Learn more at: [OptimiSE Academy](https://optimise.courses)
+#### Learn more at: [OptimiSE Academy](https://optimise.systems/academy)
 
 ⸻
 
-### 📌 What You’ll Find Here
+### What You’ll Find Here
 
-🔹 Course-related repositories – Hands-on projects, examples, and supplementary code.
+- Course-related repositories – Hands-on projects, examples, and supplementary code.
 
-🔹 Open-source tools – Scripts, workflows, and methodologies for MDO & MBSE.
+- Open-source tools – Scripts, workflows, and methodologies for MDO & MBSE.
 
-🔹 Learning materials – Jupyter notebooks, guides, and interactive content.
+- Learning materials – Jupyter notebooks, guides, and interactive content.
 
-🔹 Community contributions – Collaborative projects and discussions.
-
-#### 👩‍🎓 Already a member? 
-
-Request access to the organisation [here](https://tally.so/r/3jzLJQ) and access private repositories for the courses you're enrolled in. 
+- Community contributions – Collaborative projects and discussions.
 
 ⸻
 
-### 🎓 Enroll in Our Latest Courses
+### Enroll in Our Latest Udemy Courses
 
-🔥 [Object Process Methodology Microcourse](https://www.optimise.courses/course/object-process-methodology) – Master the fundamentals of Model-Based Systems Engineering (MBSE) with structured methodologies.
+- [Getting Started with OPM Series](https://www.udemy.com/course/getting-started-with-opm-objects-and-processes/?referralCode=CCA047CC06AA304F0D56) – Master the fundamentals of Model-Based Systems Engineering (MBSE) with structured methodologies.
 
-🔬 [Optimization Mathematics Microcourse](https://tally.so/r/31GbbL) – Develop a strong mathematical foundation for applying optimization techniques to real-world engineering problems.
+- [Foundational Mathematics for Design Optimisation Series](https://optimise.systems/academy) – Develop a strong mathematical foundation for applying optimisation techniques to real-world engineering problems.
 
-💡 [Explore All Courses](https://optimise.courses/learn/)
+- [Explore All Courses](https://optimise.systems/academy)
 
 ⸻
 
-#### 🤝 Get Involved
+#### Get Involved
 
-🚀 Follow this organization to stay updated on new projects and learning resources.
+Follow this organisation to stay updated on new projects and learning resources.
 
-📩 Have questions? Reach out via our community forum.
+Have questions? Reach out via our community forum.
 
-🌍 [Join our community](https://tally.so/r/wz2W4q) and connect with fellow engineers passionate about digital engineering!
+[Join our community](https://tally.so/r/mZvEXA) and connect with fellow engineers passionate about digital engineering!
 
-Happy learning, and see you in the code! 🚀
+Happy learning, and see you in the code! 
 
 – The OptimiSE Academy Team

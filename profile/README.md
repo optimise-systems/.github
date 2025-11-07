@@ -1,16 +1,17 @@
-## Welcome to OptimiSE Academy
+## Welcome to OptimiSE
 
 ![OptimiSE Banner](./banner-wide.png)
 
-### Empowering Engineers with MDO & MBSE Mastery
+### Empowering Engineers with MDO & MBSE
 
-Welcome to the official OptimiSE Academy GitHub Organisation, where we provide open-source resources, tools, and learning materials to support engineers in mastering Multidisciplinary Design Optimisation (MDO) and Model-Based Systems Engineering (MBSE).
+Welcome to the official OptimiSE GitHub page, where we provide open-source tools, resources, and learning materials to support engineers in mastering Multidisciplinary Design Optimisation (MDO) and Model-Based Systems Engineering (MBSE).
 
-### About OptimiSE Academy
+### About OptimiSE
 
-At OptimiSE Academy, we bridge the gap between theory and application by offering structured, practical, and industry-relevant courses designed to help engineers enhance their system development workflow. Whether you’re new to MDO & MBSE or looking to refine your expertise, our courses and resources will guide you through real-world applications and best practices.
+At OptimiSE, we believe systems modelling and design optimisation should be accessible to every engineering team and embraced as a standard practice throughout complex systems development. We help teams apply these methods through partnered projects, workflow integrations and practical, hands-on learning via our Corporate Training Programmes and online Udemy courses. 
 
-#### Learn more at: [OptimiSE Academy](https://optimise.systems/academy)
+
+#### Learn more at: [OptimiSE](https://optimise.systems/) | [Services](https://optimise.systems/services)  | [Training](https://optimise.systems/training) | [Academy](https://optimise.systems/academy)
 
 ⸻
 
@@ -18,7 +19,7 @@ At OptimiSE Academy, we bridge the gap between theory and application by offerin
 
 - Course-related repositories – Hands-on projects, examples, and supplementary code.
 
-- Open-source tools – Scripts, workflows, and methodologies for MDO & MBSE.
+- Open-source tools – Scripts, workflows, and methods for MDO & MBSE.
 
 - Learning materials – Jupyter notebooks, guides, and interactive content.
 
@@ -26,24 +27,14 @@ At OptimiSE Academy, we bridge the gap between theory and application by offerin
 
 ⸻
 
-### Enroll in Our Latest Udemy Courses
-
-- [Getting Started with OPM Series](https://www.udemy.com/course/getting-started-with-opm-objects-and-processes/?referralCode=CCA047CC06AA304F0D56) – Master the fundamentals of Model-Based Systems Engineering (MBSE) with structured methodologies.
-
-- [Foundational Mathematics for Design Optimisation Series](https://optimise.systems/academy) – Develop a strong mathematical foundation for applying optimisation techniques to real-world engineering problems.
-
-- [Explore All Courses](https://optimise.systems/academy)
-
-⸻
-
 #### Get Involved
 
-Follow this organisation to stay updated on new projects and learning resources.
+Follow this organisation to stay updated on new projects and resources.
 
-Have questions? Reach out via our community forum.
+Or join our [discussions](https://github.com/orgs/optimise-systems/discussions) and connect with fellow engineers passionate about digital engineering! 
 
-[Join our community](https://tally.so/r/mZvEXA) and connect with fellow engineers passionate about digital engineering!
+Still have questions? Send us an email at [hello@optimise.systems](mailto:hello@optimise.systems).
 
 Happy learning, and see you in the code! 
 
-– The OptimiSE Academy Team
+– The OptimiSE Team
